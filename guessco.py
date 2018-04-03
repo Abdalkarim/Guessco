@@ -2,7 +2,9 @@
 # -*- coding : utf-8 -*-
 
 """
-              :::Guessco tool:::
+          ******************************
+          ****WIFI Dictionary Attack****
+          ******************************
     Tool to get [WIFI] password through guessing
     Author : Mahmoud Abd Alkarim(@Maakthon)
 
